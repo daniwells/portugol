@@ -1,4 +1,4 @@
-algoritmo "Nome do Programa"
+algoritmo "Exercício 2"
 
 var
     numero: inteiro
@@ -12,5 +12,7 @@ inicio
 
     antecessor <- numero - 1
     sucessor <- numero + 1
+
+    escreval("O número dígitado foi ",numero,", o seu antecessor é ",antecessor,"e o sucessor é",sucessor)
 
 fimalgoritmo
