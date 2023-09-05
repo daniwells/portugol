@@ -5,7 +5,6 @@ Var
    numeroB: inteiro
    resultado: real
 
-
 Inicio
    //numeroA <- 50
    //numeroB <- 20
